@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/spotify"
+        android:icon="@drawable/ic_list"
+        android:title="Top tracks" />
+    <item
+        android:id="@+id/lastfm"
+        android:icon="@drawable/ic_recomm"
+        android:title="Recommendations" />
+    <item
+        android:id="@+id/shazam"
+        android:icon="@drawable/ic_recon"
+        android:title="Recognize audio" />
+
+</menu>
